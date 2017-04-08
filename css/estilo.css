@@ -10,8 +10,9 @@ table, td, tr {
 }
  
 img.a {
-   float: letf;
+   float: left;
    width: 270px;
+   padding: 3em;
 }
 
 h1{
