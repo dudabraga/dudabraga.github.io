@@ -6,7 +6,7 @@ table {
 }
 
 table, td, tr {
-   border: 2px solid black
+   border: 2px solid black;
    padding: 3px;
 }
  
