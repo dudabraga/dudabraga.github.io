@@ -23,7 +23,7 @@ H2,h3,h4{
 }
 	
 header {
-   background-color: black
+   background-color: black;
    padding: 1em;
    color: white;
    text-align: center;
