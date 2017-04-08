@@ -1,18 +1,20 @@
 
 table {
    border-collapse: collapse;
-   background-color:  white;
+   background-color: F1B0FF;
    width: 50%;
 }
 
 table, td, tr {
    border: 2px solid black
+   padding: 3px;
 }
  
 img.a {
    float: left;
    width: 270px;
    padding: 3em;
+   border: 4px;
 }
 
 h1{
