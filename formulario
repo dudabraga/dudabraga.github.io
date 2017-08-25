@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h2>Cadastro para festa</h2>
+  <form>
+  <p>Sexo</p>
+    <div class="radio">
+      <label><input type="radio" name="optradio">Masculino</label>
+    </div>
+    <div class="radio">
+      <label><input type="radio" name="optradio">Feminino</label>
+    </div>
+    <div class="radio disabled">
+      <label><input type="radio" name="optradio" disabled>Outros</label>
+    </div>
+    
+    
+    
+   
+  <p>Gosto musical</p>
+  <form>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Samba 
+    </label><br>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Option 2
+    </label><br>
+    <label class="checkbox-inline">
+      <input type="checkbox" value="">Option 3
+    </label>
+  </form>
+</div>
+
+</body>
+</html>
